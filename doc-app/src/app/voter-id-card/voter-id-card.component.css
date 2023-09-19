@@ -1,0 +1,171 @@
+h1 {
+    width: 400px;
+    margin: 0 auto;
+    background: gray;
+    text-align: center;
+}
+
+h2 {
+    width: 200px;
+    color: rgb(255, 255, 255);
+    background: rgb(4, 44, 104);
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0a4369;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: #111;
+}
+
+
+/* Style the "Log Out" button */
+
+.navbar button {
+    background-color: #0f5cb4d0;
+    /* Set button background color */
+    color: white;
+    /* Set button text color */
+    border: none;
+    /* Remove button border */
+    padding: 15px 20px;
+    /* Add padding to the button */
+    cursor: pointer;
+    text-decoration: none;
+    /* Remove underlines from the button */
+    margin-top: 00px;
+    /* Add top margin for spacing */
+}
+
+
+/* Style the "Log Out" button on hover */
+
+.navbar button:hover {
+    background-color: #cc0000;
+    /* Change background color on hover */
+}
+
+
+/* Container for buttons */
+
+
+/* CSS for the container div */
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+/* CSS for the row divs */
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* CSS for the column divs */
+
+.col-md-6 {
+    flex: 0 0 50%;
+}
+
+
+/* CSS for the buttons */
+
+.btn {
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    color: #fff;
+}
+
+.btn-info {
+    background-color: #3f4ed4;
+    color: #fff;
+}
+
+
+/* CSS for the input elements */
+
+input[type="file"] {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+
+/* CSS for the table */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 10px 15px;
+    border: 1px solid #ccc;
+}
+
+th {
+    text-align: center;
+}
+
+
+/* CSS for the error message */
+
+.alert {
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #dc3545;
+    color: #fff;
+}
+
+.alert-success {
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: #38965f;
+    color: #fff;
+}

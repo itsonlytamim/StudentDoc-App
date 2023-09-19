@@ -1,0 +1,133 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0a4369;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    background-color: #111;
+}
+
+
+/* Style the "Log Out" button */
+
+.navbar button {
+    background-color: #0f5cb4d0;
+    /* Set button background color */
+    color: white;
+    /* Set button text color */
+    border: none;
+    /* Remove button border */
+    padding: 15px 20px;
+    /* Add padding to the button */
+    cursor: pointer;
+    text-decoration: none;
+    /* Remove underlines from the button */
+    margin-top: 00px;
+    /* Add top margin for spacing */
+}
+
+
+/* Style the "Log Out" button on hover */
+
+.navbar button:hover {
+    background-color: #cc0000;
+    /* Change background color on hover */
+}
+
+
+/* Container with App Name and Options */
+
+
+/* Manage Documents Container */
+
+.container {
+    margin-top: 4rem;
+    text-align: center;
+}
+
+
+/* App Name */
+
+.display-4 {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #3a3c3f;
+}
+
+
+/* Options */
+
+.row {
+    margin-top: 5rem;
+}
+
+
+/* Make the buttons square and side by side */
+
+.col-md-6 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+/* Make the buttons look like folders */
+
+.btn-primary,
+.btn-secondary,
+.btn-third,
+.btn-fourth {
+    background-image: url("https://img.freepik.com/premium-vector/folder-icon-folder-files-icon_645658-2575.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200%;
+    padding: 10;
+    width: 12rem;
+    height: 12rem;
+    margin: 0 3rem;
+    text-align: center;
+    line-height: 5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+
+
+/* Make the buttons more visually appealing */
+
+.btn-primary {
+    background-color: #ec0785;
+    border-color: #ec0785;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+.btn-third {
+    background-color: #054a86;
+    border-color: #054a86;
+}
+
+.btn-fourth {
+    background-color: #058686;
+    border-color: #058686;
+}

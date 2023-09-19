@@ -1,0 +1,77 @@
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\appsettings.Development.json
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\appsettings.json
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\StudentDocHub App.exe
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\StudentDocHub App.deps.json
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\StudentDocHub App.runtimeconfig.json
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\StudentDocHub App.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\StudentDocHub App.pdb
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Humanizer.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.CodeDom.dll
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.csproj.AssemblyReference.cache
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.GeneratedMSBuildEditorConfig.editorconfig
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.AssemblyInfoInputs.cache
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.AssemblyInfo.cs
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.csproj.CoreCompileInputs.cache
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.MvcApplicationPartsAssemblyInfo.cs
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.MvcApplicationPartsAssemblyInfo.cache
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets\msbuild.StudentDocHub App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentDocHub App.props
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentDocHub App.props
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentDocHub App.props
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets.pack.json
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets.build.json
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\staticwebassets.development.json
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\scopedcss\bundle\StudentDocHub App.styles.css
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.csproj.CopyComplete
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.dll
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\refint\StudentDocHub App.dll
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.pdb
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\StudentDocHub App.genruntimeconfig.cache
+E:\StudentDocHub\StudentDocHub App\obj\Debug\net7.0\ref\StudentDocHub App.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Azure.Core.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Azure.Identity.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Memory.Data.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\StudentDocHub\StudentDocHub App\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

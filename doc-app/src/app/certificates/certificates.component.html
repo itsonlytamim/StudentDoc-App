@@ -1,0 +1,87 @@
+<div class="navbar">
+    <ul>
+        <li><button (click)="logout()">Log Out</button></li>
+        <li><a routerLink="/manage-documents">Manage Documents</a></li>
+        <li><a routerLink="/home">Home</a></li>
+
+    </ul>
+</div>
+
+<div class="container">
+    <div class="row">
+
+        <div class="col-md-5">
+            <h1>Delete All</h1>
+            <br>
+            <button class="btn btn-danger" (click)="deleteAllDocuments()">Delete All Documents</button>
+
+            <br><br><br>
+            <h1>Upload Documents</h1>
+            <br><br>
+            <input type="file" (change)="onFileSelected($event)" accept=".pdf, .docx, .jpg, .png, .jpeg" />
+            <input type="text" id="descriptionInput" [(ngModel)]="description" class="form-control" placeholder="Enter Description" />
+            <button class="btn btn-success" (click)="uploadDocument(description)">Upload New Document</button>
+        </div>
+
+        <div class="col-md-5">
+            <h2> Your <br> Certificates
+            </h2>
+        </div>
+    </div>
+
+    <br><br>
+    <h1>Documents</h1>
+    <br>
+
+    <div class="row mt-3">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>File Name</th>
+                    <th>Content Type</th>
+                    <th>Description</th>
+                    <th>Date Uploaded</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <ng-container *ngFor="let document of documents">
+                    <tr>
+                        <td>{{ document.fileName }}</td>
+                        <td>{{ document.contentType }}</td>
+                        <td>{{ document.description }}</td>
+                        <td>{{ document.dateUploaded | date: 'medium' }}</td>
+                        <td>
+                            <button class="btn btn-info" (click)="updateDocument(document)">Update</button>
+                            <button class="btn btn-danger" (click)="deleteDocument(document.id)">Delete</button>
+                            <button class="btn btn-success" (click)="downloadDocument(document)">Download</button>
+                        </td>
+                    </tr>
+                    <!-- Add the update form here for the selected document -->
+                    <tr *ngIf="selectedDocumentId === document.id">
+                        <td colspan="5">
+                            <form (submit)="submitUpdatedDocument()">
+                                <input type="text" [(ngModel)]="updatedDescription" name="description" class="form-control" placeholder="Enter Description" />
+                                <input type="file" (change)="onUpdatedFileSelected($event)" accept=".pdf, .docx, .jpg, .png, .jpeg" />
+                                <button type="submit" class="btn btn-primary">Update Document</button>
+                            </form>
+                        </td>
+                    </tr>
+                </ng-container>
+            </tbody>
+
+        </table>
+    </div>
+
+    <div class="row mt-3" *ngIf="successMessage">
+        <div class="col-md-12">
+            <div class="alert-success alert-success">{{ successMessage }}</div>
+        </div>
+    </div>
+
+    <div class="row mt-3" *ngIf="errorMessage">
+        <div class="col-md-12">
+            <div class="alert alert-danger">{{ errorMessage }}</div>
+        </div>
+    </div>
+</div>

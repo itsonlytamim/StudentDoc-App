@@ -1,0 +1,24 @@
+<div class="navbar">
+    <ul>
+        <li><button (click)="logout()">Log Out</button></li>
+        <li><a routerLink="/manage-documents">Manage Documents</a></li>
+        <li><a routerLink="/home">Home</a></li>
+
+    </ul>
+</div>
+
+<!-- Container with App Name and Options -->
+<div class="container">
+    <div class="text-center mt-4">
+        <h1 class="display-4">Welcome to <span class="text-primary">Student Doc Hub</span></h1>
+    </div>
+
+    <!-- Options -->
+    <div class="row mt-5">
+        <div class="col-md-6 offset-md-3">
+            <div class="d-grid gap-2">
+                <button class="btn btn-primary btn-lg btn-block" routerLink="/manage-documents">START UPLOADING DOCUMENTS</button>
+            </div>
+        </div>
+    </div>
+</div>
